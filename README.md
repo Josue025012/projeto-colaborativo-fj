@@ -1,6 +1,7 @@
 # projeto-colaborativo-fj
 Aprendendo permissões no GitHub
 
+<<<<<<< HEAD
 Uma alteração
 
 PS C:\Users\FelipeHenriqueAnders> git config --list
@@ -57,3 +58,6 @@ d-----        08/04/2026     09:05                projeto-colaborativo-fj
 
 
 PS C:\Users\FelipeHenriqueAnders\Desktop\meus-projetos-git>
+=======
+Uma alteração wow
+>>>>>>> a9d7b4ae329db7d45015160511d79f88668823ec
